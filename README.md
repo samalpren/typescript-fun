@@ -1,0 +1,2 @@
+# typescript-fun
+Typescript learning
